@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulSunny1209
 - 👀 I’m interested in data science and blockchain
 - 🌱 I’m currently learning python  
-- 💞️ I’m looking to collaborate on blockchain
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me - email
 
 <!---
