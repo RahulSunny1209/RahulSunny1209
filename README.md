@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulSunny1209
+- 👋 Hi, I’m @Rahul
 - 👀 I’m interested in data science and blockchain
 - 🌱 I’m currently learning python  
 - 💞️ I’m looking to collaborate on Data Science
